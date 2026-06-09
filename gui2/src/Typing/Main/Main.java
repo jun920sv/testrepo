@@ -1,0 +1,9 @@
+package Typing.Main;
+
+import Typing.Frame.MainFrame;
+
+public class Main {
+public static void main(String[] args) {
+	new MainFrame();
+}
+}
