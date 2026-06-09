@@ -13,3 +13,4 @@ public class PasswordConfig {
 		return new BCryptPasswordEncoder();		// リストA.17
 	}
 }
+//test
